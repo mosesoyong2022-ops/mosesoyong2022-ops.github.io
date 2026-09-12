@@ -1,6 +1,6 @@
 +++
 date = '2026-09-12T11:16:29+01:00'
-draft = true
+draft = false
 title = 'REM diary - s1'
 +++
 
